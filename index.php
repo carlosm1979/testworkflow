@@ -6,6 +6,6 @@
  * Time: 14:36
  */
 
-echo "init algo";
+echo "en test init algo";
 echo "y algo mas";
 ?>
